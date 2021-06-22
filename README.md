@@ -1,3 +1,3 @@
 # WATuning
 
-###The supplementary file of a Workload-aware Tuning System
+The supplementary file of a Workload-aware Tuning System
